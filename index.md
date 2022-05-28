@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 隱私權政策
 
 本文說明「本APP軟體」的隱私權政策。請您詳細閱讀，本文不定期更新，您若繼續使用「本APP軟體」，即代表您同意相關此政策。
 
-### Markdown
 
 1. 個人資料之類別
 當您使用「本APP軟體」時，本團隊會蒐集下列類別的個人資料：如果您有付費使用到Google Play Store或App Store的應用程式內付費功能，則依照市集平台的系統內建功能，在付費的交易紀錄裡，收集姓名、email、以及郵遞區號資訊。
@@ -33,27 +32,3 @@
 
 如果您有任何關於本隱私權政策的問題，請來信討論：c910527@gmail.com<br>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c910527/astrology/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
