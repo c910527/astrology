@@ -120,9 +120,8 @@
 | 水瓶座 |  Aquarius  |  ♒ 水瓶座  |          |
 | 雙魚座 |   Pisces   |  ♓ 雙魚座  |          |
 
+---
 ### 相位 (Aspect)
-
-
 |           中文           | 英文 | Unicode 字符  |
 | :------------------------: | :-----: | :------------: |
 |       Conjunction       |  0°  |      ☌      |          |
@@ -139,7 +138,7 @@
 |   Decile Semiquintile   | 36° |              |          |
 | Tridecile Sesquiquintile | 108° |              |          |
 
-
+---
 ### (Other Symbols)
 |      中文      | 英文 | Unicode 字符 | 
 | :---------------: | :----: | :------------: |
