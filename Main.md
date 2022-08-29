@@ -1,25 +1,25 @@
-### Astrology 命盤查詢
+#### Astrology 命盤查詢
 
-### 功能
+##### 功能
 
 支援基本盤、合盤查詢  
 星盤圖表、星體位置、行星相位、評分  
 
 ---
-#### 基本盤
+##### 基本盤
 天象盤  
 本命盤  
 行運盤  
 
 ---
-#### 合盤
+##### 合盤
 比較盤  
 組合盤  
 時空盤  
-馬克思盤  
+馬盤  
 
 ---
-### 分宮制（House System）
+#### 分宮制（House System）
 決定後天十二宮在星盤的分佈，歷來是西洋占星最具爭議性的部分。占星家計算後天十二宮的方法不盡相同，
 故有不同的分宮製出現。分宮制決定各宮位所佔的範圍大小，有時會對精確推算影響甚大。  
 分宮制大體發展於15世紀，經多年研究已多達50種以上，
@@ -27,7 +27,7 @@
 
 ---
 
-### 行星 (Std Planets)
+#### 行星 (Std Planets)
 |  中文  |  英文  | Unicode 字符 | 
 | :------: | :-------: | :------------: |
 |  太陽  |   Sun   |      ☉      |  
@@ -44,11 +44,11 @@
 
 ---
 
-###  小行星 (Asteroids)
+####  小行星 (Asteroids)
 |  中文  |  英文  |              Unicode 字符              | 
 | :------: | :------: | :--------------------------------------: |
 | 凱龍星 | Chiron |  ![](https://i.imgur.com/HiW8cL2.png)  | 
-| 穀神星 | Ceres | ʡ![](https://i.imgur.com/yf7XXrA.png) | 
+| 穀神星 | Ceres | ![](https://i.imgur.com/yf7XXrA.png) | 
 | 智神星 | Pallas |  ![](https://i.imgur.com/WgsHrZl.png)  | 
 | 婚神星 |  Juno  |  ![](https://i.imgur.com/nR30jB6.png)  | 
 | 灶神星 | Vesta |  ![](https://i.imgur.com/ShEyKJ0.png)  | 
@@ -56,7 +56,7 @@
 
 ---
 
-### 海王星外天體 (Trans-Neptunian object，TNO)
+#### 海王星外天體 (Trans-Neptunian object，TNO)
 |    中文    |   英文   |             Unicode 字符             |  
 | :----------: | :--------: | :------------------------------------: | 
 |   邱比特   |  Cupido  | ![](https://i.imgur.com/1OCLG6X.png) |  
@@ -70,7 +70,7 @@
 
 ---
 
-### 其他點 (Other Points)
+#### 其他點 (Other Points)
 |    中文    |       英文       |             Unicode 字符             |  
 | :----------: | :-----------------: | :-----------------: | 
 | 北(升)交點 |   Moon N. Node   |                  ☊                  | 
@@ -86,7 +86,7 @@
 
 ---
 
-### 四大尖軸 角度 (Angles)
+#### 四大尖軸 角度 (Angles)
 
 |   中文   |      英文      | Unicode 字符 | 
 | :--------: | :---------------: | :------------: | 
@@ -101,7 +101,7 @@
 
 ---
 
-### 星座 (Zodiac Signs)
+#### 星座 (Zodiac Signs)
 |  中文  |    英文    | Unicode 字符 |
 | :------: | :-----------: | :------------: |
 | 牡羊座 |    Aries    |  ♈ 牡羊座  |          |
@@ -119,26 +119,26 @@
 
 ---
 
-### 相位 (Aspect)
+#### 相位 (Aspect)
 |           中文           | 英文 | Unicode 字符  |
 | :------------------------: | :-----: | :------------: |
-|       Conjunction       |  0°  |      ☌      |          |
-|        Opposition        | 180° |      ☍      |          |
-|          Trine          | 90° |      □      |          |
-|         Sextile         | 120° |      △      |          |
-|       Semi Square       | 60° |              |          |
-|  Semisextile Duodecile  | 30° |              |          |
-|  Quincunx Quinduodecile  | 150° |              |          |
-|    Quintile Bidecile    | 72° |              |          |
-|        Biquintile        | 144° |              |          |
-|    Octile Semisquare    | 45° |              |          |
-| Trioctile Sesquiquadrate | 135° |              |          |
-|   Decile Semiquintile   | 36° |              |          |
-| Tridecile Sesquiquintile | 108° |              |          |
+|	0°	|	Conjunction	|	☌
+|	180°	|	Opposition	|	☍
+|	90°	|	Trine	|	□
+|	120°	|	Sextile	|	△
+|	60°	|	Semi Square	|	
+|	30°	|	Semisextile Duodecile	|	
+|	150°	|	Quincunx Quinduodecile	|	
+|	72°	|	Quintile Bidecile	|	
+|	144°	|	Biquintile	|	
+|	45°	|	Octile Semisquare	|	
+|	135°	|	Trioctile Sesquiquadrate	|	
+|	36°	|	Decile Semiquintile	|	
+|	108°	|	Tridecile Sesquiquintile	|	
 
 ---
 
-### (Other Symbols)
+#### (Other Symbols)
 |      中文      | 英文 | Unicode 字符 | 
 | :---------------: | :----: | :------------: |
 |    Parallel    |      |              |          |
